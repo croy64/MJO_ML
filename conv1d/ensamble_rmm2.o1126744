@@ -1,0 +1,17 @@
+======================================================================================
+
+			Resource Usage on 2020-03-12 18:05:19.402556:
+
+JobId: 1126744.sdb  
+	Job_Name = ensamble_rmm2 
+	tresource_used.cpupercent = 16 
+	resource_used.cput = 1495:44:03 
+	resources_used.mem = 10464kb 
+	resources_used.ncpus = 36 
+	resources_used.vmem = 135560kb 
+	resources_used.walltime = 27:43:54 
+	resources_used.usrutime = None 
+	resources_used.usrstime = None
+	queue = cccr 
+	
+======================================================================================
